@@ -1,0 +1,9 @@
+# Rust build files
+/target/
+
+# VS Code settings (optional)
+.vscode/
+
+# Other editors
+*.swp
+*.swo
